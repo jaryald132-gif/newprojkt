@@ -1,0 +1,13 @@
+{
+  "name": "ascendant-agents-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tactical UI for ASCENDANT AGENTS Multi-Agent Disaster Response System",
+  "scripts": {
+    "dev": "vite --port 5173 --host",
+    "serve": "python server.py"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
